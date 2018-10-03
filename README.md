@@ -1,4 +1,4 @@
-# Project Description
+# *Project Description
 
   This project is the desktop implementation of Katamino by 2K group.
   
@@ -10,7 +10,7 @@
   
   https://www.youtube.com/watch?v=BQY3Q3iTFrk
   
-  # Group Members
+  # *Group Members
   
   Hasan Doğan - 21402109
   y
